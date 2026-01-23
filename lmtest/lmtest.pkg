@@ -1,0 +1,4 @@
+D 'lmtest': Lagrange-multiplier test after constrained maximum-likelihood estimation Use lmtest With STATA 19
+D
+F lmtest.ado
+F lmtest.sthlp
